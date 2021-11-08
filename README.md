@@ -1,5 +1,7 @@
 # KeyLogger
-A simple KeyLogger - Writen in Python.
+![GitHub repo size](https://img.shields.io/github/repo-size/REALSDEALS/KeyLogger?label=Repository%20Size) ![GitHub](https://img.shields.io/github/license/REALSDEALS/KeyLogger) ![GitHub top language](https://img.shields.io/github/languages/top/REALSDEALS/KeyLogger)
+
+### A simple KeyLogger - Writen in Python.
 
 # Important to Note
 This keylogger is purely a demonstration, it's not ment to be used in a malicious way.
